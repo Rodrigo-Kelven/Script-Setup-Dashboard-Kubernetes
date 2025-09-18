@@ -1,5 +1,9 @@
 ## Kubernetes Dashboard Setup
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
 ### 🚀 Objetivo
 
 #### Este projeto tem como objetivo instalar e configurar o Kubernetes Dashboard em um cluster local ou remoto, com um ServiceAccount com permissões de administrador, permitindo acesso completo à interface web de gerenciamento do cluster.
