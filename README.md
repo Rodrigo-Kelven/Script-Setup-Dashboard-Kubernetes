@@ -68,3 +68,30 @@
 
 - [Kubernetes Dashboard - GitHub](https://github.com/kubernetes/dashboard)
 - [Documentação Oficial do Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+
+---
+## Fotos para melhor entendimento e visualização do dashboard
+**O dashboard irá aparecer somente se for instalado dentro do seu cluster, o cluster deverá ter no minimo pods rodando!**
+
+- #### Visualização do Pods e suas inormações
+![Imagem 1](photos/1.png)
+
+- #### Informações do CPU e memória do control-plane (Nó Master)
+![Imagem 2](photos/2.png)
+
+- #### Visualização de todos os Pods
+![Imagem 3](photos/3.png)
+
+- #### Exibição de Scaling de Pods
+![Imagem 4](photos/4.png)
+
+- #### Exibição de Scaling de Pods
+![Imagem 5](photos/5.png)
+
+- #### Exibição de Scaling de Pods completo
+![Imagem 6](photos/6.png)
+
+- #### Exibição de Scaling de Pods completo
+![Imagem 7](photos/7.png)
+
+---
